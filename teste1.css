@@ -1,0 +1,33 @@
+
+*{
+    margin: 0;
+    padding:0;
+    
+
+}
+.wrapper{
+    background: url(../../Downloads/anastase-maragos-FP7cfYPPUKM-unsplash.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+}
+.nevbar {
+    height: 80px;
+    width: 100%;
+    background: rgba(0,0,0, 0, 4);
+}
+.logo{
+    color: yellow;
+    padding: 20px 100px;
+    
+}
+.nevbar ul {
+    float: right;
+    margin-right: 20px;
+}
+.nevbar ul li {
+    list-style: none;
+    margin: 0 8px;
+    display: inline-block;
+    line-height: 100%;
+}
